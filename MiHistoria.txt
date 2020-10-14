@@ -2,6 +2,6 @@ YO soy Diana, retomando este
 interesante mundo.
 
 Bienvenidos otra vez.
-Probando a más 1 de un colaborador.
+Probando la contribución en un proyecto Open Source
 
 Esta vez estoy estudiando Git y GitHUb!
