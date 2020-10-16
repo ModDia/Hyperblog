@@ -6,4 +6,6 @@ Probando la contribución en un proyecto Open Source
 
 Master 1
 
+Master 2
+
 Esta vez estoy estudiando Git y GitHUb!
